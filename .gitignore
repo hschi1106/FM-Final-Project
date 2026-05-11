@@ -58,6 +58,19 @@ compile_commands.json
 *.bak
 *.swp
 
+# LaTeX generated files
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
 # vcpkg
 vcpkg_installed/
 
